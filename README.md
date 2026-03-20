@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarek Mariscal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Science with python and pandas
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tarekmrscl@gmail.com
 - 😄 Pronouns: he/him
