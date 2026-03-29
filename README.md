@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Tarek Mariscal
+## Hey there!👋
+
+I’m Tarek Mariscal, a Front End Developer in the making from Mexico City.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
