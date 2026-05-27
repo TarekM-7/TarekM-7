@@ -8,7 +8,6 @@ Right now I'm focused on improving my skills in web development and data analyst
 
 My goal is to collaborate with others and build meaningful web applications.
 
----
 
 ## 🛠️ Tech I'm working with
 - HTML, CSS, JavaScript
@@ -16,23 +15,20 @@ My goal is to collaborate with others and build meaningful web applications.
 - Node.js & Express
 - MongoDB
 
----
 
 ## 📌 What I'm doing right now
 - Building and sharing small projects
 - Learning best practices in front-end development
 - Exploring full-stack development with MERN
 
----
 
 ## 🤝 Let's connect
 I'm open to collaborating, learning, and growing with other developers.
 
----
 
 ## Fun facts:
 
 - I love F1 🏎️
 - I have way too many dogs 🐕
-- Hobbies, Gym, swimming, and movies 🏊🏻
+- Hobbies: Gym, swimming, and movies 🏊🏻
 
