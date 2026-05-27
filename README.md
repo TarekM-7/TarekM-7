@@ -1,18 +1,38 @@
 # Hey there!👋
 
-I’m Tarek, a Front End Developer in the making from Mexico.
+I’m Tarek, a Front End Developer in the making from Mexico!
 
-I'm starting to build and design web pages.
+I'm currently learning and building big projects using the **MERN stack** (MongoDB, Express, React, Node.js) and small projects with JavaScript, HTML and CSS
 
-Right now I'm focusing in MERN stack.
+Right now I'm focused on improving my skills in web development and data analyst by sharing here on GitHub
 
-I've build some small projects but now I want to share them here in GitHub, so I will start being more active.
+My goal is ti cikkaborate with others and build meaningful web applications.
 
-With high hopes of colaborating with other developer and learn more.
+---
 
-Fun facts:
+## 🛠️ Tech I'm working with
+- HTML, CSS, JavaScript
+- React
+- Node.js & Express
+- MongoDB
+
+---
+
+## 📌 What I'm doing right now
+- Building and sharing small projects
+- Learning best practices in front-end development
+- Exploring full-stack development with MERN
+
+---
+
+## 🤝 Let's connect
+I'm open to collaborating, learning, and growing with other developers.
+
+---
+
+## Fun facts:
 
 - I love F1
-- I have too many dogs.
-- Hobbies: Swim, Gym, Movies
+- I have way too many dogs
+- Hobbies, Gym, swimming, and movies
 
