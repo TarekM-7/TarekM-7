@@ -13,6 +13,6 @@ With high hopes of colaborating with other developer and learn more.
 Fun facts:
 
 -I love F1
--I have too many dogs.
--Hobbies: Swim, Gym, Movies
+*I have too many dogs.
++Hobbies: Swim, Gym, Movies
 
