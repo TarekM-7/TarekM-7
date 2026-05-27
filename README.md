@@ -1,6 +1,11 @@
-## Hey there!👋
+# Hey there!👋
 
-I’m Tarek Mariscal, a Front End Developer in the making from Mexico City.
+I’m Tarek, a Front End Developer in the making from Mexico.
+
+I'm starting to build and design web pages.
+
+Right now I'm focusing in MERN stack.
+
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
