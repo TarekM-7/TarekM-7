@@ -6,7 +6,7 @@ I'm currently learning and building big projects using the **MERN stack** (Mongo
 
 Right now I'm focused on improving my skills in web development and data analyst by sharing here on GitHub
 
-My goal is ti cikkaborate with others and build meaningful web applications.
+My goal is to collaborate with others and build meaningful web applications.
 
 ---
 
@@ -32,7 +32,7 @@ I'm open to collaborating, learning, and growing with other developers.
 
 ## Fun facts:
 
-- I love F1
-- I have way too many dogs
-- Hobbies, Gym, swimming, and movies
+- I love F1 🏎️
+- I have way too many dogs 🐕
+- Hobbies, Gym, swimming, and movies 🏊🏻
 
