@@ -34,3 +34,4 @@ I'm open to collaborating, learning, and growing with other developers.
 - I have way too many dogs 🐕
 - Hobbies: Gym, swimming, and movies 🏊🏻
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=TarekM-7&theme=dark)](https://git.io/streak-stats)
