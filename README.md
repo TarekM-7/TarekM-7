@@ -6,6 +6,8 @@ I'm currently learning and building big projects using the **MERN stack** (Mongo
 
 I'm especially interested in combining my data analysis skills with web development to build data-driven applications.
 
+Working with data, cloud infrastructure, and AWS ecosystems.
+
 Right now I'm focused on improving my skills in web development and data analyst by sharing here on GitHub
 
 My goal is to collaborate with others and build meaningful web applications.
