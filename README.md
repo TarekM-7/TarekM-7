@@ -18,6 +18,9 @@ My goal is to collaborate with others and build meaningful web applications.
 - React
 - Node.js & Express
 - MongoDB
+- SQL
+- AWS
+
 
 
 ## 📌 What I'm doing right now
